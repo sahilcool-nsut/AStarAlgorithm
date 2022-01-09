@@ -5,5 +5,8 @@ Implementation of the A* Algorithm on random mazes generated using pyamaze packa
 https://user-images.githubusercontent.com/54092979/148670116-0022961a-2801-4d34-86c0-f93880e99ba6.mp4
 
 
-https://user-images.githubusercontent.com/54092979/148670420-a7e6fc96-4579-4f71-b8b0-14660edd5422.mp4
+
+
+
+https://user-images.githubusercontent.com/54092979/148670435-a4aa6c5c-4b9f-44eb-900c-df26c841f9b8.mp4
 
